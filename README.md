@@ -1,2 +1,2 @@
 # LoRaWAN-Examples
-LoRaWAN examples
+This repository maintains sample code for working with LoRaWAN. 
