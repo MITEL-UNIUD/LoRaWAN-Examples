@@ -7,6 +7,7 @@
   This sketch demonstrates how to send and receive temperature and humidity 
   with the MKR WAN 1300 LoRa module plus a temperature sensor (DHT-11 or DHT-22 or DS18B20), 
   and send them to TTN using OTAA or ABP (configurable), ADR or not, setting a specific data rate, etc.
+  It sends also battery level.
   The sketch is derived from the original LoraSendAndReceive example.
   This example code is in the public domain.
   MITEL - Medical Informatics, Telemedicine & eHealth Lab, University of Udine, Italy
